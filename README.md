@@ -30,10 +30,10 @@ source env.sh
 
 ## go installed
 
-If you already have go installed.
+If you already have go installed just `source` the gopath script.
 
 ```bash
-source env.sh
+source gopath.sh
 ```
 
 Check the go command is in the path in my case this resolves to
