@@ -9,7 +9,9 @@ case `/Users/markw/gostick`.
 cd gostick
 ```
 
-Pick a package for your os and extract it the options are:
+## go not installed
+
+If you don't have go installed pick a package for your os and extract it here. The options are:
 
 * go1.2.darwin-386-osx10.6.tar.gz
 * go1.2.darwin-amd64-osx10.8.tar.gz
@@ -21,6 +23,14 @@ tar cxvf packages/go1.2.linux-amd64.tar.gz
 ```
 
 Now `source` the env script.
+
+```bash
+source env.sh
+```
+
+## go installed
+
+If you already have go installed.
 
 ```bash
 source env.sh
