@@ -37,7 +37,7 @@ source gopath.sh
 ```
 
 Check the go command is in the path in my case this resolves to
-`/Users/markw/gostick/go/bin/go`.
+`/Users/markw/gostick/go/bin/go` or where it is installed.
 
 ```bash
 which go
