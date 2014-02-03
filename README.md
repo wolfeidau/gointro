@@ -49,5 +49,7 @@ yo
 
 # Links
 
-This is based on the talk that Mark Smith did at lca2014 see the source
-version here [https://github.com/xb95/lca2014].
+This is based on the talk that [Mark Smith](https://twitter.com/zorkian) did at lca2014.
+
+* https://github.com/xb95/lca2014
+* http://www.slideshare.net/dreamwidth/lca2014-introduction-to-go
